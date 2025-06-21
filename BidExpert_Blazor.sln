@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidExpert_Blazor.AppHost", "BidExpert_Blazor.AppHost\BidExpert_Blazor.AppHost.csproj", "{678F212B-D1C4-4C53-8045-D300427F82E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidExpert_Blazor.ServiceDefaults", "BidExpert_Blazor.ServiceDefaults\BidExpert_Blazor.ServiceDefaults.csproj", "{E54254A8-D80A-F935-8D09-3A2EE2E998D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidExpert_Blazor.ApiService", "BidExpert_Blazor.ApiService\BidExpert_Blazor.ApiService.csproj", "{28A42C01-474E-74A9-C3DF-DA5437A4AB01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidExpert_Blazor.Web", "BidExpert_Blazor.Web\BidExpert_Blazor.Web.csproj", "{8CA49D66-E48F-6BE9-8101-6FC491137698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidExpert_Blazor.Tests", "BidExpert_Blazor.Tests\BidExpert_Blazor.Tests.csproj", "{DBE18B4A-F9E1-38AE-79B6-C4D2158E8654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678F212B-D1C4-4C53-8045-D300427F82E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678F212B-D1C4-4C53-8045-D300427F82E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678F212B-D1C4-4C53-8045-D300427F82E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678F212B-D1C4-4C53-8045-D300427F82E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54254A8-D80A-F935-8D09-3A2EE2E998D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54254A8-D80A-F935-8D09-3A2EE2E998D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54254A8-D80A-F935-8D09-3A2EE2E998D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54254A8-D80A-F935-8D09-3A2EE2E998D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A42C01-474E-74A9-C3DF-DA5437A4AB01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A42C01-474E-74A9-C3DF-DA5437A4AB01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A42C01-474E-74A9-C3DF-DA5437A4AB01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A42C01-474E-74A9-C3DF-DA5437A4AB01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA49D66-E48F-6BE9-8101-6FC491137698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA49D66-E48F-6BE9-8101-6FC491137698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA49D66-E48F-6BE9-8101-6FC491137698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA49D66-E48F-6BE9-8101-6FC491137698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE18B4A-F9E1-38AE-79B6-C4D2158E8654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE18B4A-F9E1-38AE-79B6-C4D2158E8654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE18B4A-F9E1-38AE-79B6-C4D2158E8654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE18B4A-F9E1-38AE-79B6-C4D2158E8654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E854880A-9FCF-481D-A373-93DEA60ADE9D}
+	EndGlobalSection
+EndGlobal
